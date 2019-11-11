@@ -15,7 +15,7 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%, -50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
     display: grid;
     grid-template-rows: 124px repeat(5, 80px);
     grid-template-columns: repeat(4, 80px);

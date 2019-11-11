@@ -1,3 +1,3 @@
 # Calculator
 Can be modified:
-- replace eval with another function.
+- optimize the code by replacing eval with another function.
